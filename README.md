@@ -1,4 +1,7 @@
 # Segmentation and Classification of Diabetic Retinopathy
+
+# Course
+DS3002 Data Mining
 # GOAL:
 1. Image sampling using k-mean clustering <br />
 2. Image segmentation <br />
